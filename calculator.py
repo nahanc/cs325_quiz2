@@ -6,3 +6,9 @@ def addition(x, y):
 
 def subtraction(x, y):
     print(x - y)
+
+def multiplcation(x, y):
+    print(x*y)
+
+def division(x, y):
+    print(x/y)
